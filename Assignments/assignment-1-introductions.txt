@@ -4,18 +4,18 @@ Due: Tuesday, January 23, 2018 @ 8:00am
 
 Fill in the following three blanks.
 
-Name:
-Major:
-Expected graduation date:
+Name:Travis Finch
+Major:Statistics
+Expected graduation date:May 2021
 
 
 Answer the following four questions.
 
 Why are you taking this class?
-
+Introduction to programming that involves statistics
 What is your previous programming experience?
-
+Intro to Computational Thinking which also used python.
 What do you want to take away from this class?
-
+Programming skills 
 Do you have any apprehensions about this class? If so, describe.
-
+N/A
